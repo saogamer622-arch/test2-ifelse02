@@ -1,0 +1,14 @@
+C:\game\05\test2-ifelse\bin\Debug\net8.0\test2-ifelse.exe
+C:\game\05\test2-ifelse\bin\Debug\net8.0\test2-ifelse.deps.json
+C:\game\05\test2-ifelse\bin\Debug\net8.0\test2-ifelse.runtimeconfig.json
+C:\game\05\test2-ifelse\bin\Debug\net8.0\test2-ifelse.dll
+C:\game\05\test2-ifelse\bin\Debug\net8.0\test2-ifelse.pdb
+C:\game\05\test2-ifelse\obj\Debug\net8.0\test2-ifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\game\05\test2-ifelse\obj\Debug\net8.0\test2-ifelse.AssemblyInfoInputs.cache
+C:\game\05\test2-ifelse\obj\Debug\net8.0\test2-ifelse.AssemblyInfo.cs
+C:\game\05\test2-ifelse\obj\Debug\net8.0\test2-ifelse.csproj.CoreCompileInputs.cache
+C:\game\05\test2-ifelse\obj\Debug\net8.0\test2-ifelse.dll
+C:\game\05\test2-ifelse\obj\Debug\net8.0\refint\test2-ifelse.dll
+C:\game\05\test2-ifelse\obj\Debug\net8.0\test2-ifelse.pdb
+C:\game\05\test2-ifelse\obj\Debug\net8.0\test2-ifelse.genruntimeconfig.cache
+C:\game\05\test2-ifelse\obj\Debug\net8.0\ref\test2-ifelse.dll
